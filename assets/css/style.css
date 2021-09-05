@@ -48,7 +48,12 @@ p {
 
 .container button {
     background-color: purple;
-    border: none;
     color: white;
     box-shadow: 1px 1px 1px black;
+    padding: 20px;
+    border-radius: 4px;
+    border-color: purple;
+    margin: 5px;
+    width: 100%;
+
 }
